@@ -10,4 +10,4 @@ The main focus of this project will be social media networks, mainly LinkedIn. T
 
 Logical Setup Flowchart: 
 
-<img width="600" alt="Screen Shot 2022-11-14 at 10 14 28" src="https://user-images.githubusercontent.com/103374702/201588531-4b758d63-22f5-4f96-9fa5-3ccbc85d5848.png">
+<img width="583" alt="Screen Shot 2022-11-14 at 10 16 26" src="https://user-images.githubusercontent.com/103374702/201588714-12d0e5ab-9653-450c-899c-a5b9ee2d81e9.png">
